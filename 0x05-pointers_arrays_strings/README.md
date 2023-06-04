@@ -1,4 +1,5 @@
-0x05. C - Pointers, arrays and strings C
+C - Pointers, arrays and strings
+
 #TASKS
 
 0. 98 Battery st.
@@ -92,3 +93,4 @@ You are allowed to use the standard library
 You don’t have to pass the betty-style tests (you still need to pass the betty-doc tests)
 man srand, rand, time
 gdb and objdump can help
+
